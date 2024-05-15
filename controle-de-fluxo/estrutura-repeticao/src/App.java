@@ -5,5 +5,6 @@ public class App {
         while(condicao){
             System.out.println("executou ... ");
         }
+            
     }
 }
