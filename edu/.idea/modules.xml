@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EstudoJava.iml" filepath="$PROJECT_DIR$/.idea/EstudoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugging-java/debugging-java.iml" filepath="$PROJECT_DIR$/debugging-java/debugging-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-de-fluxo/estrutura-condicionais/estrutura-condicionais.iml" filepath="$PROJECT_DIR$/controle-de-fluxo/estrutura-condicionais/estrutura-condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-de-fluxo/estrutura-repeticao/estrutura-repeticao.iml" filepath="$PROJECT_DIR$/controle-de-fluxo/estrutura-repeticao/estrutura-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-de-fluxo/estruturas-excepcionais/estruturas-excepcionais.iml" filepath="$PROJECT_DIR$/controle-de-fluxo/estruturas-excepcionais/estruturas-excepcionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basic/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basic/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basic/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basic/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basic/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basic/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basic/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basic/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basic/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basic/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
